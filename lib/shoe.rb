@@ -1,1 +1,3 @@
-class New 
+class Shoe
+  def initiali
+end 
